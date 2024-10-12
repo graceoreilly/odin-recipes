@@ -1,2 +1,2 @@
 # odin-recipes
-This a project as part of the Odin project curriculum.
+This a project as part of the Odin project curriculum. In this project I learned how to create a website and "push" my changes to github. I learned how to create a web page with an image, unordered lists, ordered lists, headings and paragraphs. I learned how to link my webpages to my homepage. I also learned it is important to call your homepage index.html.
