@@ -1,0 +1,18 @@
+body {
+    background-color: #ffffc4;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, ol {
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    margin: auto;
+    height: 400px;
+    width: 400px;
+}
