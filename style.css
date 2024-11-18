@@ -16,12 +16,11 @@ body {
 }
 
 li {
-    margin: auto;
-    padding: 10px;
-    border: 10px;
-    height: 10px;
+    margin: 10px auto; /* Adds spacing between list items */
+    padding: 10px 20px;
     width: 400px;
     list-style: none;
+    /* line-height: 1.6;  To ensure enough line spacing */
     /* display: inline-block; */
 }
 
@@ -39,15 +38,20 @@ a {
 }
 
 h2 {
-    font-size: smaller;
+    font-size: 1.2em;
     padding: 0px;
-    border: 0px;
     text-align: center;
+    margin: 20px 0; /* Adds space above and below the heading */
+}
+
+h3, p, h1 {
+    text-align: center;
+    margin: 20px 0;
 }
 
 img {
     height: auto;
-    width: 500px;
+    max-width: 100%;
     display: block;
     margin: auto;
     padding-top: 30px;
